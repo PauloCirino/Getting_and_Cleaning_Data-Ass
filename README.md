@@ -7,5 +7,6 @@ To run this script you'll need first to extract the http://archive.ics.uci.edu/m
 You don't have to(and can't) move the files out of their original folders.
 After extracting the .zip file in your current working directory just type in the R shell :
 >source("run_analysis.R")
+
 And that is it .
 Gook Luck!
