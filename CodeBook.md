@@ -1,11 +1,15 @@
 ==================================================================
 Getting and Cleaning Data 
+==================================================================
 MOOC Coursera
+==================================================================
 
 Paulo Cirino Ribeiro Neto
 In This CodeBook I'll explain all of the variables used in run_analysis.R
 But First of all, Let me say that I'm sorry for my broken english.
-==================================================================
+
+
+
 
 LabFileName <- path to the activity_labels.txt file
 
