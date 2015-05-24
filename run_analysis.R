@@ -1,4 +1,3 @@
-library("dplyr")
 LabFileName <- "./UCI HAR Dataset/activity_labels.txt"
 TestXName <- "./UCI HAR Dataset/test/X_test.txt"
 TestYName <- "./UCI HAR Dataset/test/y_test.txt"
